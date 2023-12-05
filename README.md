@@ -24,5 +24,4 @@ https://github.com/STIMALiU/ml4industry
 
 ## Links
 ### Repositorio:
-
-### Perfil:
+https://github.com/zoeesgenial/ZoeIbire/tree/main
